@@ -1,7 +1,7 @@
 # tech-interview-preparation
 All resources for interview preparation that I find useful in one place
 
-### How to learn if you will have whiteboarding interview
+### How to learn if you have whiteboarding interview
 <ul>
 <li><a href="https://www.glassdoor.com/">Glassdoor</a> is the first place where you could look for information about interviews. However the information could be specific for some locations if the company doesn't have standard interview process.</li>
 <li><a href="http://they.whiteboarded.me/companies-that-whiteboard.html">Companies that have whiteboard interviews</a></li>
