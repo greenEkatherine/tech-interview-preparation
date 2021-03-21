@@ -1,9 +1,9 @@
 # tech-interview-preparation
 All resources for interview preparation that I find useful in one place
 
-### How to learn if you have whiteboarding interview
+### How to learn if you have a whiteboarding interview
 <ul>
-<li><a href="https://www.glassdoor.com/">Glassdoor</a> is the first place where you could look for information about interviews. However the information could be specific for some locations if the company doesn't have standard interview process.</li>
+<li><a href="https://www.glassdoor.com/">Glassdoor</a> is the first place where you could look for information about interviews. However, the information could be specific for some locations if the company doesn't have standard interview process.</li>
 <li><a href="http://they.whiteboarded.me/companies-that-whiteboard.html">Companies that have whiteboard interviews</a></li>
 <li><a href="https://github.com/poteto/hiring-without-whiteboards">Companies that don't have whiteboard interviews</a></li>
 <li><a href="https://leetcode.com/discuss/interview-experience?currentPage=1&orderBy=hot&query=">Interview experiences on Leetcode</a></li>
@@ -15,15 +15,15 @@ All resources for interview preparation that I find useful in one place
 <li>Algorithms by Sedgewick on Coursera <a href="https://www.coursera.org/learn/algorithms-part1">first part</a> и <a href="https://www.coursera.org/learn/algorithms-part2">second part</a> (also has <a href="https://algs4.cs.princeton.edu/home/">book version</a>)</li>
 <li><a href="https://www.coursera.org/specializations/algorithms">Algorithms specialization</a> by Stanford</li>
 <li><a href="https://stepik.org/course/217/promo">Free course</a> in Russian</li>
-<li>[Advanced] <a href="https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)">Formulae for comlexity of recursive algorithms</a></li>
+<li>[Advanced] <a href="https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)">Formulae for the complexity of recursive algorithms</a></li>
 </ul>
 
 ### Coding
 <ul>
-<li> My favourite tool to train problem solving - <a href="https://leetcode.com/problemset/all/">Leetcode</a>
+<li> My favorite tool to train problem-solving skills - <a href="https://leetcode.com/problemset/all/">Leetcode</a>
 <li> Platform to train online screening - <a href="https://www.codility.com/">Codility</a>
 <li>The most frequent patterns to solve problems: <a href="https://tproger.ru/translations/14-templates-to-answer-interview-questions/">article</a> and <a href="https://www.educative.io/courses/grokking-the-coding-interview">course</a></li>
-<li>Problems' solutions with explanation from <a href="https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw">Tushar Roy</a></li>
+<li>Problems' solutions with explanations from <a href="https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw">Tushar Roy</a></li>
 <li>[Advanced] <a href="https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns">Dynamic programming patterns</a></li>
 </ul>  
 
@@ -51,7 +51,8 @@ All resources for interview preparation that I find useful in one place
 <li><a href="https://www.pramp.com/#/">Peer-to-peer interviews</a></li>
 </ul>
 
-### Useful quides
+### Useful guides
 <ul>
+<li><a href="https://habr.com/ru/post/499394/">My article</a> in Russian about prepartion to tech interviews</li>
 <li>More guides and resources <a href="https://docs.outtalent.com/">from Outtalent</a></li>
 </ul>  
