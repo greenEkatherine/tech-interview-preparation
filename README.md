@@ -1,7 +1,7 @@
 # tech-interview-preparation
 All resources for interview preparation that I find useful in one place
 
-### How to learn if you have a whiteboarding interview
+### How to learn that you will have a whiteboarding interview
 <ul>
 <li><a href="https://www.glassdoor.com/">Glassdoor</a> is the first place where you could look for information about interviews. However, the information could be specific for some locations if the company doesn't have standard interview process.</li>
 <li><a href="http://they.whiteboarded.me/companies-that-whiteboard.html">Companies that have whiteboard interviews</a></li>
@@ -14,7 +14,7 @@ All resources for interview preparation that I find useful in one place
 <ul>
 <li>Algorithms by Sedgewick on Coursera <a href="https://www.coursera.org/learn/algorithms-part1">first part</a> и <a href="https://www.coursera.org/learn/algorithms-part2">second part</a> (also has <a href="https://algs4.cs.princeton.edu/home/">book version</a>)</li>
 <li><a href="https://www.coursera.org/specializations/algorithms">Algorithms specialization</a> by Stanford</li>
-<li><a href="https://stepik.org/course/217/promo">Free course</a> in Russian</li>
+<li>[Russian] <a href="https://stepik.org/course/217/promo">Free algorithm course</a></li>
 <li>[Advanced] <a href="https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)">Formulae for the complexity of recursive algorithms</a></li>
 </ul>
 
@@ -32,6 +32,7 @@ All resources for interview preparation that I find useful in one place
 <li><a href="https://github.com/donnemartin/system-design-primer">Github repo</a> with all necessary terms and introduction to system design with links to more detailed sources</li>
 <li><a href="https://www.educative.io/courses/grokking-the-system-design-interview">Short course</a> without any deep diving - nice for quick remind</li>
 <li><a href="https://www.youtube.com/playlist?list=PL6535748F59DCA484">Videos</a> from MIT course about system design</li>
+<li><a href="https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g">Video channel</a> of the conference for architectures</li>  
 </ul>
 
 ### Behavioral interview
@@ -53,6 +54,6 @@ All resources for interview preparation that I find useful in one place
 
 ### Useful guides
 <ul>
-<li><a href="https://habr.com/ru/post/499394/">My article</a> in Russian about prepartion to tech interviews</li>
+<li>[Russian] <a href="https://habr.com/ru/post/499394/">My article</a> about prepartion to tech interviews</li>
 <li>More guides and resources <a href="https://docs.outtalent.com/">from Outtalent</a></li>
 </ul>  
